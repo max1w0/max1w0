@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Aloxa, Welcome to my project page!</h1>
 
-<!--
-**max1w0/max1w0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ⚡ GitHub Status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=max1w0&show_icons=true&theme=tokyonight&hide=issues&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=max1w0&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max1w0&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:max1w0010@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
