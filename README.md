@@ -4,7 +4,13 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,js,py,linux,git,nodejs,golang,html,css,java" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,c,py,php,java,js"/><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vue,html,css"/><br>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql"/><br>
+  <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,rider,idea,androidstudio,pycharm"/><br>
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker"/>
+</p>
 
 ---
 
