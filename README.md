@@ -5,11 +5,10 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,c,py,php,java,js"/><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vue,html,css"/><br>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql"/><br>
-  <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,rider,idea,androidstudio,pycharm"/><br>
-  <img src="https://skillicons.dev/icons?i=linux,windows,docker"/>
+  <img src="https://skillicons.dev/icons?i=go,cs,c,cpp,py,php,java,js,kotlin,swift&theme=light"/><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,vue,tailwind,flutter,laravel,html,css&theme=light"/><br>
+  <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,rider,idea,androidstudio,pycharm,godot,figma,postman&theme=light"/><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,sqlite,postgresql,mysql,linux,windows,docker,kubernetes,kafka&theme=light"/>
 </p>
 
 ---
